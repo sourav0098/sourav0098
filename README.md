@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/sourav0098/sourav0098/main/banner.png)
 <h1 align="center">
   Hi 👋, I'm Sourav Choudhary<span align="left">
     <a href="https://www.linkedin.com/in/sourav009/" target="blank"
@@ -11,8 +12,8 @@
   </span>
 </h1>
 
-- 🌱 I’m currently learning **Spring Boot, GraphQL, Next.js**
-- 📫 Reach me at **sourav4132@gmail.com**
+🌱 I’m currently learning **Spring Boot, GraphQL, Next.js**  
+📫 Reach me at **sourav4132@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
