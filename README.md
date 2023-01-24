@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/sourav0098/sourav0098/main/banner.png)
 <h1 align="left">
-  Sourav Choudhary<span align="left">
+  👨🏼‍💻 Sourav Choudhary<span align="left">
     <a href="https://www.linkedin.com/in/sourav009/" target="blank"
       ><img
         align="center"
@@ -15,7 +15,7 @@
 🌱 I’m currently learning **Spring Boot, GraphQL, Next.js**  
 📫 Reach me at **sourav4132@gmail.com**
 
-### Languages and Tools:
+### 🧰 Languages and Tools:
 <img align="left" alt="Spring Boot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
@@ -29,9 +29,9 @@
 <img align="left" alt="Php" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-
 <br/>
 <br/>
 
+### 📊 Stats:
 | <a href="https://github.com/sourav0098/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sourav0098&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sourav github stats" /></a> | <a href="https://github.com/sourav0098/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav0098&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
